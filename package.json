@@ -1,22 +1,22 @@
 {
-  "name": "fix-tass",
+  "name": "js-filters",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node_modules/.bin/browserify index.js > fix-tass.js"
+    "build": "node_modules/.bin/browserify index.js > js-filters.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pavel-g/fix-tass.git"
+    "url": "https://github.com/pavel-g/js-filters.git"
   },
   "author": "Gnedov Pavel <pavel@gnedov.info>",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/pavel-g/fix-tass/issues"
+    "url": "https://github.com/pavel-g/js-filters/issues"
   },
-  "homepage": "https://github.com/pavel-g/fix-tass#readme",
+  "homepage": "https://github.com/pavel-g/js-filters#readme",
   "dependencies": {
     "escodegen": "^1.8.1",
     "esprima": "^3.1.3",
